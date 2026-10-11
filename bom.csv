@@ -1,0 +1,24 @@
+﻿Référence,Valeur,Quantité,Empreinte,Description,Lien
+U3,ESP32-S3-WROOM-1-N16R8,1,RF_Module:ESP32-S3-WROOM-1,"Module ESP32-S3, 16 Mo flash, 8 Mo PSRAM (PCB final)",https://www.mouser.fr/c/?q=ESP32-S3-WROOM-1-N16R8
+U2,AP2112K-3.3,1,Package_TO_SOT_SMD:SOT-23-5,"Régulateur 3,3 V",https://www.lcsc.com/search?q=AP2112K-3.3
+U1,USBLC6-2SC6,1,Package_TO_SOT_SMD:SOT-23-6,Protection ESD USB,https://www.lcsc.com/search?q=USBLC6-2SC6
+J1,USB-C 16 broches,1,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,Connecteur USB-C CMS,https://www.lcsc.com/search?q=USB-C+16pin
+J2,Header femelle 1x05,1,Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical,Connecteur de l'écran OLED,https://www.amazon.fr/s?k=barrette+femelle+2.54mm
+"R1, R2","5,1 kΩ",2,Resistor_SMD:R_0603_1608Metric,Résistances CC de l'USB-C,https://www.lcsc.com/search?q=5.1k+0603
+R3,10 kΩ,1,Resistor_SMD:R_0603_1608Metric,Pull-up du reset (EN),https://www.lcsc.com/search?q=10k+0603
+C1,1 µF,1,Capacitor_SMD:C_0603_1608Metric,Condensateur du reset,https://www.lcsc.com/search?q=1uF+0603
+"C2, C3, C4",10 µF,3,Capacitor_SMD:C_0805_2012Metric,Découplage alimentation,https://www.lcsc.com/search?q=10uF+0805
+C5,100 nF,1,Capacitor_SMD:C_0603_1608Metric,Découplage du module,https://www.lcsc.com/search?q=100nF+0603
+"SW1, SW7",Bouton tact CMS,2,Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92,Boutons Boot et Reset,https://www.lcsc.com/search?q=SMD+tact+switch
+"SW2-SW6, SW9, SW10, SW3_KEY1, SW4_KEY1, PAUSE1, PLAY1",Switch MX 3 broches,11,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,9 raccourcis + Pause + Play,https://www.amazon.fr/s?k=switch+cherry+MX+mecanique
+SW8,Encodeur EC11 avec bouton,1,Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,Volume et mute,https://www.amazon.fr/s?k=encodeur+rotatif+EC11
+-,"Écran OLED 2,42"" SSD1309 128x64 I2C",1,-,"Module écran (5 broches : RES, SDA, SCL, VCC, GND)",https://www.amazon.fr/s?k=ecran+OLED+2.42+pouces+SSD1309+128x64
+-,Keycaps MX,11,-,Capuchons des touches,https://www.amazon.fr/s?k=keycaps+MX
+-,Knob 15 à 20 mm,1,-,Bouton de l'encodeur,https://www.amazon.fr/s?k=bouton+encodeur+rotatif+15mm
+-,Inserts filetés M3,4,-,Fixation dans le boîtier,https://www.amazon.fr/s?k=inserts+filetes+M3+impression+3D
+-,Vis M3 6 à 8 mm,4,-,Fixation du PCB,https://www.amazon.fr/s?k=vis+M3+8mm
+-,Boîtier impression 3D (PETG ou PLA),1,-,Boîtier 150 x 80 mm,-
+-,Câble USB-C avec données,1,-,Alimentation et connexion au PC,-
+PROTOTYPE,Carte ESP32-S3-DevKitC-1 N16R8,1,-,Pour tester avant le PCB,https://www.amazon.fr/s?k=ESP32-S3-DevKitC-1+N16R8
+PROTOTYPE,Breadboard,1,-,Câblage du prototype,https://www.amazon.fr/s?k=breadboard+830+points
+PROTOTYPE,Fils Dupont,1,-,Câblage du prototype,https://www.amazon.fr/s?k=fils+dupont+kit
