@@ -1,24 +1,47 @@
-NEXORA – Liste d'achats complète
-• Carte ESP32-S3-DevKitC-1 N16R8 (prototype)
-• Module ESP32-S3-WROOM-1-N16R8 (PCB final)
-• Écran OLED monochrome 2,42" SSD1309 128×64 avec headers
-• Switchs MX (3 pour le prototype, 11 pour le final)
-• Keycaps (même quantité que les switchs)
-• Sockets hot-swap Kailh MX (11)
-• Diodes 1N4148W (11)
-• Encodeur rotatif EC11 avec bouton
-• Knob de 15 à 20 mm
-• Connecteur USB-C 16 broches (CMS)
-• Résistances 5,1 kΩ (2)
-• Résistances 10 kΩ (3)
-• Protection ESD USBLC6-2SC6
-• Régulateur 3,3 V AP2112K-3.3
-• Condensateurs 10 µF (3)
-• Condensateurs 100 nF (5 à 8)
-• Condensateurs 1 µF (1)
-• Boutons tact CMS Reset et Boot (2)
-• Header femelle 2,54 mm
-• Breadboard
-• Fils Dupont
-• Inserts filetés M3 (4)
-• Vis M3 de 6 à 8 mm (4)
+NEXORA – Complete Shopping List
+
+ESP32-S3-DevKitC-1 N16R8 development board (prototype)
+
+ESP32-S3-WROOM-1-N16R8 module (final PCB)
+
+2.42-inch monochrome OLED display, SSD1309, 128 × 64, with headers
+
+MX switches (3 for the prototype, 11 for the final version)
+
+Keycaps (same quantity as the switches)
+
+Kailh MX hot-swap sockets (11)
+
+1N4148W diodes (11)
+
+EC11 rotary encoder with push button
+
+15–20 mm rotary encoder knob
+
+16-pin USB-C connector (SMD)
+
+5.1 kΩ resistors (2)
+
+10 kΩ resistors (3)
+
+USBLC6-2SC6 ESD protection device
+
+AP2112K-3.3 voltage regulator (3.3 V)
+
+10 µF capacitors (3)
+
+100 nF capacitors (5–8)
+
+1 µF capacitor (1)
+
+SMD tactile push buttons for Reset and Boot (2)
+
+2.54 mm female header pins
+
+Breadboard
+
+Dupont jumper wires
+
+M3 threaded inserts (4)
+
+M3 screws, 6–8 mm long (4)
