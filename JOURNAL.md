@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4h | 1 |
+| Week 1 | Tier 1 | 2h | 1 |
 
 ## Contents
 
@@ -20,14 +20,10 @@
 
 ### 2026-10-11 – At the beginning of this session, I spent about 2 hours researching how to start the project. I read the introduction and the getting-started guide carefully, then I began looking for all the material
 
-**4h**
+**2h**
 
 At the beginning of this session, I spent about 2 hours researching how to start the project. I read the introduction and the getting-started guide carefully, then I began looking for all the materials I need for NEXORA, my ESP32-S3 macro pad. I put together a complete shopping list: an ESP32-S3 dev board for prototyping, a 2.42" SSD1309 OLED screen, MX switches, hot-swap sockets, diodes, a rotary encoder, a USB-C connector, and the passive components for the PCB.
 
 ![Screenshot 2026-10-11 161427](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qMqJ3Xb64he03aOYIXcBRL8mY42kC0ZL/68c7a6f3b4e2ffb3a7da2439f257a7aa7e39a0822cf96e1ed49b6bc1b7fb3dde.png)
 
 ![Screenshot 2026-10-11 161716](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qMqJ3Xb64he03aOYIXcBRL8mY42kC0ZL/9539c9b67682d7aa5944faff81618e4ff81a4db7942ffa542b235981a68c632e.png)
-
-![Screenshot 2026-10-11 153620](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qMqJ3Xb64he03aOYIXcBRL8mY42kC0ZL/bc80bce89a98a866a96618f5bb3744a8966448f59e5b6d9e8b7cdaee91d0bf9c.png)
-
-![Screenshot 2026-10-11 153505](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/qMqJ3Xb64he03aOYIXcBRL8mY42kC0ZL/5bea1a60cce675344d1093ec7c70fc9b87f88589bc53c3764854452f9a2ed555.png)
